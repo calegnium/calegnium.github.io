@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://calegnium.github.io/sitemap
+Sitemap: https://calegnium.github.io/app/sitemap
+Sitemap: https://calegnium.github.io/assets/sitemap
+Sitemap: https://calegnium.github.io/css/sitemap
+Sitemap: https://calegnium.github.io/includes/sitemap
+Sitemap: https://calegnium.github.io/item/sitemap
+Sitemap: https://calegnium.github.io/src/sitemap
